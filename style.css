@@ -1,0 +1,53 @@
+.container{
+    margin-bottom: 100px;
+}
+.orange-bg{
+    background-color: #fceae8;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #ff136f;
+}
+.cat1 , .cat2 , .cat3{
+ padding: 10px 30px;
+ border-radius: 10px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: blue;
+}
+.cat3{
+   background-color: #f5166c; 
+}
+.container-categories h1{
+    color: white;
+}
+.container-categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.container-shoes{
+    margin: 100px ;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#Subscribe{
+    height: 300px;
+    
+}
+#Subscribe h6{
+    color: gray;
+}
+#copyr{
+    text-align: center;
+}
